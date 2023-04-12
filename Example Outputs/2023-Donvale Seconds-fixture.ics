@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 1 - BNFC - Melbourne Deaf FC
+DTSTART;TZID=Australia/Sydney:20230415T130000
+DTEND;TZID=Australia/Sydney:20230415T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs BNFC - Melbourne Deaf FC at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 2 - Yarra Valley Fourths
+DTSTART;TZID=Australia/Sydney:20230422T130000
+DTEND;TZID=Australia/Sydney:20230422T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.753608104587336\,145.65019343121
+ 344\nDonvale Seconds vs Yarra Valley Fourths at Millgrove Rec Reserve 2
+LOCATION:Millgrove Rec Reserve 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 3 - BNFC Blackburn City
+DTSTART;TZID=Australia/Sydney:20230429T130000
+DTEND;TZID=Australia/Sydney:20230429T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs BNFC Blackburn City at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 4 - Berwick D4 Men
+DTSTART;TZID=Australia/Sydney:20230506T130000
+DTEND;TZID=Australia/Sydney:20230506T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-38.07463154167552\,145.338269509014
+ 96\nDonvale Seconds vs Berwick D4 Men at Grices Road Reserve 2
+LOCATION:Grices Road Reserve 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 5 - Lion Rock FC
+DTSTART;TZID=Australia/Sydney:20230513T150000
+DTEND;TZID=Australia/Sydney:20230513T170000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nDonvale Seconds vs Lion Rock FC at Eastern Football Precinct
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 6 - Waverley City SC Men 5s
+DTSTART;TZID=Australia/Sydney:20230520T130000
+DTEND;TZID=Australia/Sydney:20230520T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Waverley City SC Men 5s at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 7 - Mooroolbark Cavaliers
+DTSTART;TZID=Australia/Sydney:20230527T130000
+DTEND;TZID=Australia/Sydney:20230527T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.77375603568776\,145.386436303735
+ 3\nDonvale Seconds vs Mooroolbark Cavaliers at Morrison Reserve Pavilion G
+ round
+LOCATION:Morrison Reserve Pavilion Ground
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 8 - KCSC Courage
+DTSTART;TZID=Australia/Sydney:20230617T130000
+DTEND;TZID=Australia/Sydney:20230617T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs KCSC Courage at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 9 - Maroondah Utd 5ths
+DTSTART;TZID=Australia/Sydney:20230624T130000
+DTEND;TZID=Australia/Sydney:20230624T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Maroondah Utd 5ths at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 10 - BNFC - Melbourne Deaf FC
+DTSTART;TZID=Australia/Sydney:20230708T130000
+DTEND;TZID=Australia/Sydney:20230708T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.791157543074995\,145.05695788836
+ 056\nDonvale Seconds vs BNFC - Melbourne Deaf FC at Hays Paddock
+LOCATION:Hays Paddock
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 11 - Yarra Valley Fourths
+DTSTART;TZID=Australia/Sydney:20230715T130000
+DTEND;TZID=Australia/Sydney:20230715T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Yarra Valley Fourths at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 12 - BNFC Blackburn City
+DTSTART;TZID=Australia/Sydney:20230722T130000
+DTEND;TZID=Australia/Sydney:20230722T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.857094130715275\,145.13491664538
+ 572\nDonvale Seconds vs BNFC Blackburn City at Ballyshannassy Park Pitch N
+ o 1
+LOCATION:Ballyshannassy Park Pitch No 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 13 - Berwick D4 Men
+DTSTART;TZID=Australia/Sydney:20230729T130000
+DTEND;TZID=Australia/Sydney:20230729T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Berwick D4 Men at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 14 - Lion Rock FC
+DTSTART;TZID=Australia/Sydney:20230805T130000
+DTEND;TZID=Australia/Sydney:20230805T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Lion Rock FC at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 15 - Waverley City SC Men 5s
+DTSTART;TZID=Australia/Sydney:20230812T130000
+DTEND;TZID=Australia/Sydney:20230812T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nDonvale Seconds vs Waverley City SC Men 5s at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 16 - Mooroolbark Cavaliers
+DTSTART;TZID=Australia/Sydney:20230819T130000
+DTEND;TZID=Australia/Sydney:20230819T150000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Seconds vs Mooroolbark Cavaliers at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 17 - KCSC Courage
+DTSTART;TZID=Australia/Sydney:20230826T150000
+DTEND;TZID=Australia/Sydney:20230826T170000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
+ 57\nDonvale Seconds vs KCSC Courage at Knox Park 2
+LOCATION:Knox Park 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 18 - Maroondah Utd 5ths
+DTSTART;TZID=Australia/Sydney:20230902T150000
+DTEND;TZID=Australia/Sydney:20230902T170000
+DTSTAMP:20230412T160046Z
+DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287981152392
+ 6\nDonvale Seconds vs Maroondah Utd 5ths at Silcock Reserve Pitch 1
+LOCATION:Silcock Reserve Pitch 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 1 - Mitcham Raiders
+DTSTART;TZID=Australia/Sydney:20230415T150000
+DTEND;TZID=Australia/Sydney:20230415T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs Mitcham Raiders at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 2 - St Hilarys Firsts
+DTSTART;TZID=Australia/Sydney:20230422T150000
+DTEND;TZID=Australia/Sydney:20230422T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nWaverley City SC Mens 3rds vs St Hilarys Firsts at Highfield Park Nort
+ h
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 3 - One FC
+DTSTART;TZID=Australia/Sydney:20230429T150000
+DTEND;TZID=Australia/Sydney:20230429T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs One FC at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 4 - Gideon's Warriors FC
+DTSTART;TZID=Australia/Sydney:20230506T150000
+DTEND;TZID=Australia/Sydney:20230506T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-38.0829211319998\,145.2715927073791
+ \nWaverley City SC Mens 3rds vs Gideon's Warriors FC at Lawson Poole Reser
+ ve
+LOCATION:Lawson Poole Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 5 - Lilydale Eagles Threeagles
+DTSTART;TZID=Australia/Sydney:20230513T150000
+DTEND;TZID=Australia/Sydney:20230513T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs Lilydale Eagles Threeagles at Milpera Rese
+ rve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 6 - Donvale Firsts
+DTSTART;TZID=Australia/Sydney:20230520T150000
+DTEND;TZID=Australia/Sydney:20230520T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nWaverley City SC Mens 3rds vs Donvale Firsts at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 7 - BNFC Manningham Blues
+DTSTART;TZID=Australia/Sydney:20230527T150000
+DTEND;TZID=Australia/Sydney:20230527T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs BNFC Manningham Blues at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 8 - KCSC Glory
+DTSTART;TZID=Australia/Sydney:20230617T150000
+DTEND;TZID=Australia/Sydney:20230617T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
+ 57\nWaverley City SC Mens 3rds vs KCSC Glory at Knox Park 2
+LOCATION:Knox Park 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 9 - Monbulk Rangers Panthers
+DTSTART;TZID=Australia/Sydney:20230624T150000
+DTEND;TZID=Australia/Sydney:20230624T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs Monbulk Rangers Panthers at Milpera Reserv
+ e
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 10 - Mitcham Raiders
+DTSTART;TZID=Australia/Sydney:20230708T150000
+DTEND;TZID=Australia/Sydney:20230708T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.857094130715275\,145.13491664538
+ 572\nWaverley City SC Mens 3rds vs Mitcham Raiders at Ballyshannassy Park 
+ Pitch No 1
+LOCATION:Ballyshannassy Park Pitch No 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 11 - St Hilarys Firsts
+DTSTART;TZID=Australia/Sydney:20230715T150000
+DTEND;TZID=Australia/Sydney:20230715T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs St Hilarys Firsts at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 12 - One FC
+DTSTART;TZID=Australia/Sydney:20230722T150000
+DTEND;TZID=Australia/Sydney:20230722T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.8004634\,145.0735138\nWaverley C
+ ity SC Mens 3rds vs One FC at Macleay Park
+LOCATION:Macleay Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 13 - Gideon's Warriors FC
+DTSTART;TZID=Australia/Sydney:20230729T150000
+DTEND;TZID=Australia/Sydney:20230729T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs Gideon's Warriors FC at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 14 - Lilydale Eagles Threeagles
+DTSTART;TZID=Australia/Sydney:20230805T130000
+DTEND;TZID=Australia/Sydney:20230805T150000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.77375603568776\,145.386436303735
+ 3\nWaverley City SC Mens 3rds vs Lilydale Eagles Threeagles at Morrison Re
+ serve Pavilion Ground
+LOCATION:Morrison Reserve Pavilion Ground
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 15 - Donvale Firsts
+DTSTART;TZID=Australia/Sydney:20230812T150000
+DTEND;TZID=Australia/Sydney:20230812T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs Donvale Firsts at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 16 - BNFC Manningham Blues
+DTSTART;TZID=Australia/Sydney:20230819T150000
+DTEND;TZID=Australia/Sydney:20230819T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
+ 062\nWaverley City SC Mens 3rds vs BNFC Manningham Blues at Mirrabooka Res
+ erve Pitch  1
+LOCATION:Mirrabooka Reserve Pitch  1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 17 - KCSC Glory
+DTSTART;TZID=Australia/Sydney:20230826T150000
+DTEND;TZID=Australia/Sydney:20230826T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nWaverley City SC Mens 3rds vs KCSC Glory at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 18 - Monbulk Rangers Panthers
+DTSTART;TZID=Australia/Sydney:20230902T150000
+DTEND;TZID=Australia/Sydney:20230902T170000
+DTSTAMP:20230412T155622Z
+DESCRIPTION:http://maps.google.com/?q=-37.8657408\,145.42553269999996\nWav
+ erley City SC Mens 3rds vs Monbulk Rangers Panthers at Monbulk Regional So
+ ccer Facility 2
+LOCATION:Monbulk Regional Soccer Facility 2
+END:VEVENT
+END:VCALENDAR

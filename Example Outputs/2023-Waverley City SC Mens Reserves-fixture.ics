@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 1 - Berwick MPL1 Reserves
+DTSTART;TZID=Australia/Sydney:20230415T130000
+DTEND;TZID=Australia/Sydney:20230415T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Berwick MPL1 Reserves at Monash Univer
+ sity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 2 - Maroondah Utd Reserves
+DTSTART;TZID=Australia/Sydney:20230422T150000
+DTEND;TZID=Australia/Sydney:20230422T170000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287895321704
+ 13\nWaverley City SC Mens Reserves vs Maroondah Utd Reserves at Silcock Re
+ serve Pitch 2
+LOCATION:Silcock Reserve Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 3 - BNFC MPL1 Reserves
+DTSTART;TZID=Australia/Sydney:20230429T130000
+DTEND;TZID=Australia/Sydney:20230429T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs BNFC MPL1 Reserves at Monash Universit
+ y Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 4 - Eastern Utd Second XI
+DTSTART;TZID=Australia/Sydney:20230506T130000
+DTEND;TZID=Australia/Sydney:20230506T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.8155516\,145.28308059999995\nWav
+ erley City SC Mens Reserves vs Eastern Utd Second XI at Belmont Park
+LOCATION:Belmont Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 5 - Lilydale Eagles Reserves
+DTSTART;TZID=Australia/Sydney:20230513T130000
+DTEND;TZID=Australia/Sydney:20230513T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Lilydale Eagles Reserves at Monash Uni
+ versity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 6 - Doncaster Rovers Reserves
+DTSTART;TZID=Australia/Sydney:20230520T130000
+DTEND;TZID=Australia/Sydney:20230520T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.7653072\,145.16986369999995\nWav
+ erley City SC Mens Reserves vs Doncaster Rovers Reserves at Anderson Park
+LOCATION:Anderson Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 7 - Yarra Valley Reserves
+DTSTART;TZID=Australia/Sydney:20230527T130000
+DTEND;TZID=Australia/Sydney:20230527T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Yarra Valley Reserves at Monash Univer
+ sity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 8 - KCSC Strikers
+DTSTART;TZID=Australia/Sydney:20230617T130000
+DTEND;TZID=Australia/Sydney:20230617T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.89182780859965\,145.258528153533
+ 92\nWaverley City SC Mens Reserves vs KCSC Strikers at Knox Park 1
+LOCATION:Knox Park 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 9 - Mooroolbark Warriors
+DTSTART;TZID=Australia/Sydney:20230624T130000
+DTEND;TZID=Australia/Sydney:20230624T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Mooroolbark Warriors at Monash Univers
+ ity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 10 - Berwick MPL1 Reserves
+DTSTART;TZID=Australia/Sydney:20230708T130000
+DTEND;TZID=Australia/Sydney:20230708T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-38.074251478466806\,145.33701423519
+ 597\nWaverley City SC Mens Reserves vs Berwick MPL1 Reserves at Grices Roa
+ d Reserve
+LOCATION:Grices Road Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 11 - Maroondah Utd Reserves
+DTSTART;TZID=Australia/Sydney:20230715T130000
+DTEND;TZID=Australia/Sydney:20230715T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Maroondah Utd Reserves at Monash Unive
+ rsity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 12 - BNFC MPL1 Reserves
+DTSTART;TZID=Australia/Sydney:20230722T130000
+DTEND;TZID=Australia/Sydney:20230722T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
+ 062\nWaverley City SC Mens Reserves vs BNFC MPL1 Reserves at Mirrabooka Re
+ serve Pitch  1
+LOCATION:Mirrabooka Reserve Pitch  1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 13 - Eastern Utd Second XI
+DTSTART;TZID=Australia/Sydney:20230729T130000
+DTEND;TZID=Australia/Sydney:20230729T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Eastern Utd Second XI at Monash Univer
+ sity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 14 - Lilydale Eagles Reserves
+DTSTART;TZID=Australia/Sydney:20230805T130000
+DTEND;TZID=Australia/Sydney:20230805T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.77366275062719\,145.386436303735
+ 3\nWaverley City SC Mens Reserves vs Lilydale Eagles Reserves at Morrison 
+ Reserve Athletics Ground
+LOCATION:Morrison Reserve Athletics Ground
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 15 - Doncaster Rovers Reserves
+DTSTART;TZID=Australia/Sydney:20230812T130000
+DTEND;TZID=Australia/Sydney:20230812T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs Doncaster Rovers Reserves at Monash Un
+ iversity Clayton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 16 - Yarra Valley Reserves
+DTSTART;TZID=Australia/Sydney:20230819T130000
+DTEND;TZID=Australia/Sydney:20230819T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.75337058678158\,145.650150515869
+ 2\nWaverley City SC Mens Reserves vs Yarra Valley Reserves at Millgrove Re
+ c Reserve 1
+LOCATION:Millgrove Rec Reserve 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 17 - KCSC Strikers
+DTSTART;TZID=Australia/Sydney:20230826T130000
+DTEND;TZID=Australia/Sydney:20230826T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
+ \nWaverley City SC Mens Reserves vs KCSC Strikers at Monash University Cla
+ yton Campus Pitch 2
+LOCATION:Monash University Clayton Campus Pitch 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 18 - Mooroolbark Warriors
+DTSTART;TZID=Australia/Sydney:20230902T130000
+DTEND;TZID=Australia/Sydney:20230902T150000
+DTSTAMP:20230412T155636Z
+DESCRIPTION:http://maps.google.com/?q=-37.77366275062719\,145.386436303735
+ 3\nWaverley City SC Mens Reserves vs Mooroolbark Warriors at Morrison Rese
+ rve Athletics Ground
+LOCATION:Morrison Reserve Athletics Ground
+END:VEVENT
+END:VCALENDAR

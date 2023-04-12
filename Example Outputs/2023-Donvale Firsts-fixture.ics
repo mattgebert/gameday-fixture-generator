@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 1 - One FC
+DTSTART;TZID=Australia/Sydney:20230415T150000
+DTEND;TZID=Australia/Sydney:20230415T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs One FC at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 2 - Gideon's Warriors FC
+DTSTART;TZID=Australia/Sydney:20230422T150000
+DTEND;TZID=Australia/Sydney:20230422T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-38.0829211319998\,145.2715927073791
+ \nDonvale Firsts vs Gideon's Warriors FC at Lawson Poole Reserve
+LOCATION:Lawson Poole Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 3 - Lilydale Eagles Threeagles
+DTSTART;TZID=Australia/Sydney:20230429T150000
+DTEND;TZID=Australia/Sydney:20230429T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs Lilydale Eagles Threeagles at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 4 - KCSC Glory
+DTSTART;TZID=Australia/Sydney:20230506T130000
+DTEND;TZID=Australia/Sydney:20230506T150000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.89421543391056\,145.258914391632
+ 06\nDonvale Firsts vs KCSC Glory at Knox Park 3
+LOCATION:Knox Park 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 5 - BNFC Manningham Blues
+DTSTART;TZID=Australia/Sydney:20230513T150000
+DTEND;TZID=Australia/Sydney:20230513T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.761102455278056\,145.15305338703
+ 308\nDonvale Firsts vs BNFC Manningham Blues at Petty's Reserve West
+LOCATION:Petty's Reserve West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 6 - Waverley City SC Mens 3rds
+DTSTART;TZID=Australia/Sydney:20230520T150000
+DTEND;TZID=Australia/Sydney:20230520T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs Waverley City SC Mens 3rds at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 7 - Monbulk Rangers Panthers
+DTSTART;TZID=Australia/Sydney:20230527T150000
+DTEND;TZID=Australia/Sydney:20230527T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.8657408\,145.42553269999996\nDon
+ vale Firsts vs Monbulk Rangers Panthers at Monbulk Regional Soccer Facilit
+ y 1
+LOCATION:Monbulk Regional Soccer Facility 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 8 - Mitcham Raiders
+DTSTART;TZID=Australia/Sydney:20230617T150000
+DTEND;TZID=Australia/Sydney:20230617T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs Mitcham Raiders at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 9 - St Hilarys Firsts
+DTSTART;TZID=Australia/Sydney:20230624T150000
+DTEND;TZID=Australia/Sydney:20230624T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs St Hilarys Firsts at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 10 - One FC
+DTSTART;TZID=Australia/Sydney:20230708T150000
+DTEND;TZID=Australia/Sydney:20230708T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.8004634\,145.0735138\nDonvale Fi
+ rsts vs One FC at Macleay Park
+LOCATION:Macleay Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 11 - Gideon's Warriors FC
+DTSTART;TZID=Australia/Sydney:20230715T150000
+DTEND;TZID=Australia/Sydney:20230715T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs Gideon's Warriors FC at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 12 - Lilydale Eagles Threeagles
+DTSTART;TZID=Australia/Sydney:20230722T130000
+DTEND;TZID=Australia/Sydney:20230722T150000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.77375603568776\,145.386436303735
+ 3\nDonvale Firsts vs Lilydale Eagles Threeagles at Morrison Reserve Pavili
+ on Ground
+LOCATION:Morrison Reserve Pavilion Ground
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 13 - KCSC Glory
+DTSTART;TZID=Australia/Sydney:20230729T150000
+DTEND;TZID=Australia/Sydney:20230729T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs KCSC Glory at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 14 - BNFC Manningham Blues
+DTSTART;TZID=Australia/Sydney:20230805T150000
+DTEND;TZID=Australia/Sydney:20230805T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs BNFC Manningham Blues at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 15 - Waverley City SC Mens 3rds
+DTSTART;TZID=Australia/Sydney:20230812T150000
+DTEND;TZID=Australia/Sydney:20230812T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nDonvale Firsts vs Waverley City SC Mens 3rds at Milpera Reserve
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 16 - Monbulk Rangers Panthers
+DTSTART;TZID=Australia/Sydney:20230819T150000
+DTEND;TZID=Australia/Sydney:20230819T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs Monbulk Rangers Panthers at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 17 - Mitcham Raiders
+DTSTART;TZID=Australia/Sydney:20230826T130000
+DTEND;TZID=Australia/Sydney:20230826T150000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.857094130715275\,145.13491664538
+ 572\nDonvale Firsts vs Mitcham Raiders at Ballyshannassy Park Pitch No 1
+LOCATION:Ballyshannassy Park Pitch No 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 18 - St Hilarys Firsts
+DTSTART;TZID=Australia/Sydney:20230902T150000
+DTEND;TZID=Australia/Sydney:20230902T170000
+DTSTAMP:20230412T160004Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nDonvale Firsts vs St Hilarys Firsts at Highfield Park North
+LOCATION:Highfield Park North
+END:VEVENT
+END:VCALENDAR
