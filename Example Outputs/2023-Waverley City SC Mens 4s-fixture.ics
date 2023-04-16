@@ -5,128 +5,154 @@ BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 1 - KCSC Power
 DTSTART;TZID=Australia/Sydney:20230415T130000
 DTEND;TZID=Australia/Sydney:20230415T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
- 57\nWaverley City SC 4s vs KCSC Power at Knox Park 2
+ 57\nWaverley City SC 4s vs KCSC Power at Knox Park 2\n\nFixture URL:https:
+ //websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-26842517&a=S
+ FIX
 LOCATION:Knox Park 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 2 - Dynamo FC 2nds
 DTSTART;TZID=Australia/Sydney:20230422T130000
 DTEND;TZID=Australia/Sydney:20230422T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs Dynamo FC 2nds at Milpera Reserve
+ \nWaverley City SC 4s vs Dynamo FC 2nds at Milpera Reserve\n\nFixture URL:
+ https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-268425
+ 17&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 3 - Berwick MPL2 Reserves
 DTSTART;TZID=Australia/Sydney:20230429T130000
 DTEND;TZID=Australia/Sydney:20230429T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-38.074251478466806\,145.33701423519
- 597\nWaverley City SC 4s vs Berwick MPL2 Reserves at Grices Road Reserve
+ 597\nWaverley City SC 4s vs Berwick MPL2 Reserves at Grices Road Reserve\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159
+ -622720-26842517&a=SFIX
 LOCATION:Grices Road Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 4 - Bayswater Strikers Reserves
 DTSTART;TZID=Australia/Sydney:20230506T130000
 DTEND;TZID=Australia/Sydney:20230506T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs Bayswater Strikers Reserves at Milpera Reserve
+ \nWaverley City SC 4s vs Bayswater Strikers Reserves at Milpera Reserve\n\
+ nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-
+ 622720-26842517&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 5 - St Pauls FC Reserves
 DTSTART;TZID=Australia/Sydney:20230513T130000
 DTEND;TZID=Australia/Sydney:20230513T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.97961212628065\,145.245692749615
- 5\nWaverley City SC 4s vs St Pauls FC Reserves at James Cook Reserve
+ 5\nWaverley City SC 4s vs St Pauls FC Reserves at James Cook Reserve\n\nFi
+ xture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622
+ 720-26842517&a=SFIX
 LOCATION:James Cook Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 6 - BNFC MPL2 Reserves
 DTSTART;TZID=Australia/Sydney:20230520T130000
 DTEND;TZID=Australia/Sydney:20230520T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs BNFC MPL2 Reserves at Milpera Reserve
+ \nWaverley City SC 4s vs BNFC MPL2 Reserves at Milpera Reserve\n\nFixture 
+ URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-26
+ 842517&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 7 - Healesville SC Reserves
 DTSTART;TZID=Australia/Sydney:20230527T130000
 DTEND;TZID=Australia/Sydney:20230527T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.6692556743374\,145.5372291428222
- 7\nWaverley City SC 4s vs Healesville SC Reserves at Don Rd Pitch No 1
+ 7\nWaverley City SC 4s vs Healesville SC Reserves at Don Rd Pitch No 1\n\n
+ Fixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6
+ 22720-26842517&a=SFIX
 LOCATION:Don Rd Pitch No 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 8 - KCSC Power
 DTSTART;TZID=Australia/Sydney:20230617T130000
 DTEND;TZID=Australia/Sydney:20230617T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs KCSC Power at Milpera Reserve
+ \nWaverley City SC 4s vs KCSC Power at Milpera Reserve\n\nFixture URL:http
+ s://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-26842517&a
+ =SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 9 - Dynamo FC 2nds
 DTSTART;TZID=Australia/Sydney:20230624T130000
 DTEND;TZID=Australia/Sydney:20230624T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.78770480000001\,144.9234995\nWav
- erley City SC 4s vs Dynamo FC 2nds at Newmarket Reserve
+ erley City SC 4s vs Dynamo FC 2nds at Newmarket Reserve\n\nFixture URL:htt
+ ps://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-26842517&
+ a=SFIX
 LOCATION:Newmarket Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 10 - Berwick MPL2 Reserves
 DTSTART;TZID=Australia/Sydney:20230708T130000
 DTEND;TZID=Australia/Sydney:20230708T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs Berwick MPL2 Reserves at Milpera Reserve
+ \nWaverley City SC 4s vs Berwick MPL2 Reserves at Milpera Reserve\n\nFixtu
+ re URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720
+ -26842517&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 11 - Bayswater Strikers Reserves
 DTSTART;TZID=Australia/Sydney:20230715T130000
 DTEND;TZID=Australia/Sydney:20230715T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.91552644566477\,145.264892310064
  74\nWaverley City SC 4s vs Bayswater Strikers Reserves at Park Ridge Reser
- ve
+ ve\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-20
+ 4159-622720-26842517&a=SFIX
 LOCATION:Park Ridge Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 12 - St Pauls FC Reserves
 DTSTART;TZID=Australia/Sydney:20230722T130000
 DTEND;TZID=Australia/Sydney:20230722T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs St Pauls FC Reserves at Milpera Reserve
+ \nWaverley City SC 4s vs St Pauls FC Reserves at Milpera Reserve\n\nFixtur
+ e URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-
+ 26842517&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 13 - BNFC MPL2 Reserves
 DTSTART;TZID=Australia/Sydney:20230729T130000
 DTEND;TZID=Australia/Sydney:20230729T150000
-DTSTAMP:20230412T155551Z
-DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
- 062\nWaverley City SC 4s vs BNFC MPL2 Reserves at Mirrabooka Reserve Pitch
-   1
-LOCATION:Mirrabooka Reserve Pitch  1
+DTSTAMP:20230415T132215Z
+DESCRIPTION:http://maps.google.com/?q=-37.841484615394954\,145.14783566452
+ 638\nWaverley City SC 4s vs BNFC MPL2 Reserves at Mirrabooka Reserve Pitch
+  2\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-20
+ 4159-622720-26842517&a=SFIX
+LOCATION:Mirrabooka Reserve Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 14 - Healesville SC Reserves
 DTSTART;TZID=Australia/Sydney:20230805T130000
 DTEND;TZID=Australia/Sydney:20230805T150000
-DTSTAMP:20230412T155551Z
+DTSTAMP:20230415T132215Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC 4s vs Healesville SC Reserves at Milpera Reserve
+ \nWaverley City SC 4s vs Healesville SC Reserves at Milpera Reserve\n\nFix
+ ture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6227
+ 20-26842517&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 END:VCALENDAR

@@ -5,145 +5,165 @@ BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 1 - BNFC Phoenix
 DTSTART;TZID=Australia/Sydney:20230415T153000
 DTEND;TZID=Australia/Sydney:20230415T173000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.78807077300044\,145.287839355294
  78\nWaverley City SC Ladies Firsts vs BNFC Phoenix at Silcock Reserve Pitc
- h 4
+ h 4\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-2
+ 04159-623783-26842909&a=SFIX
 LOCATION:Silcock Reserve Pitch 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 2 - KCSC Ladies Strikers
 DTSTART;TZID=Australia/Sydney:20230422T150000
 DTEND;TZID=Australia/Sydney:20230422T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
  \nWaverley City SC Ladies Firsts vs KCSC Ladies Strikers at Milpera Reserv
- e
+ e\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204
+ 159-623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 3 - KCSC Ladies Force
 DTSTART;TZID=Australia/Sydney:20230429T150000
 DTEND;TZID=Australia/Sydney:20230429T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
- 57\nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Knox Park 2
+ 57\nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Knox Park 2\n\n
+ Fixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6
+ 23783-26842909&a=SFIX
 LOCATION:Knox Park 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 4 - Berwick United Women
 DTSTART;TZID=Australia/Sydney:20230506T150000
 DTEND;TZID=Australia/Sydney:20230506T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
  \nWaverley City SC Ladies Firsts vs Berwick United Women at Milpera Reserv
- e
+ e\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204
+ 159-623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 5 - Maroondah Utd Emeralds
-DTSTART;TZID=Australia/Sydney:20230513T150000
-DTEND;TZID=Australia/Sydney:20230513T170000
-DTSTAMP:20230412T155743Z
+DTSTART;TZID=Australia/Sydney:20230513T130000
+DTEND;TZID=Australia/Sydney:20230513T150000
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287981152392
  6\nWaverley City SC Ladies Firsts vs Maroondah Utd Emeralds at Silcock Res
- erve Pitch 1
+ erve Pitch 1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c
+ =0-8912-204159-623783-26842909&a=SFIX
 LOCATION:Silcock Reserve Pitch 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 6 - BNFC Phoenix
 DTSTART;TZID=Australia/Sydney:20230520T150000
 DTEND;TZID=Australia/Sydney:20230520T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Ladies Firsts vs BNFC Phoenix at Milpera Reserve
+ \nWaverley City SC Ladies Firsts vs BNFC Phoenix at Milpera Reserve\n\nFix
+ ture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6237
+ 83-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 7 - KCSC Ladies Strikers
 DTSTART;TZID=Australia/Sydney:20230527T130000
 DTEND;TZID=Australia/Sydney:20230527T150000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.89182780859965\,145.258528153533
- 92\nWaverley City SC Ladies Firsts vs KCSC Ladies Strikers at Knox Park 1
+ 92\nWaverley City SC Ladies Firsts vs KCSC Ladies Strikers at Knox Park 1\
+ n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-20415
+ 9-623783-26842909&a=SFIX
 LOCATION:Knox Park 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 8 - KCSC Ladies Force
 DTSTART;TZID=Australia/Sydney:20230617T150000
 DTEND;TZID=Australia/Sydney:20230617T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Milpera Reserve
+ \nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Milpera Reserve\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159
+ -623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 9 - Berwick United Women
 DTSTART;TZID=Australia/Sydney:20230624T130000
 DTEND;TZID=Australia/Sydney:20230624T150000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-38.07463154167552\,145.338269509014
  96\nWaverley City SC Ladies Firsts vs Berwick United Women at Grices Road 
- Reserve 2
+ Reserve 2\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-
+ 8912-204159-623783-26842909&a=SFIX
 LOCATION:Grices Road Reserve 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 10 - Maroondah Utd Emeralds
 DTSTART;TZID=Australia/Sydney:20230708T150000
 DTEND;TZID=Australia/Sydney:20230708T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
  \nWaverley City SC Ladies Firsts vs Maroondah Utd Emeralds at Milpera Rese
- rve
+ rve\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-2
+ 04159-623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 11 - BNFC Phoenix
-DTSTART;TZID=Australia/Sydney:20230715T150000
-DTEND;TZID=Australia/Sydney:20230715T170000
-DTSTAMP:20230412T155743Z
+DTSTART;TZID=Australia/Sydney:20230715T130000
+DTEND;TZID=Australia/Sydney:20230715T150000
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
  062\nWaverley City SC Ladies Firsts vs BNFC Phoenix at Mirrabooka Reserve 
- Pitch  1
+ Pitch  1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8
+ 912-204159-623783-26842909&a=SFIX
 LOCATION:Mirrabooka Reserve Pitch  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 12 - KCSC Ladies Strikers
 DTSTART;TZID=Australia/Sydney:20230722T150000
 DTEND;TZID=Australia/Sydney:20230722T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
  \nWaverley City SC Ladies Firsts vs KCSC Ladies Strikers at Milpera Reserv
- e
+ e\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204
+ 159-623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 13 - KCSC Ladies Force
 DTSTART;TZID=Australia/Sydney:20230729T150000
 DTEND;TZID=Australia/Sydney:20230729T170000
-DTSTAMP:20230412T155743Z
-DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
- 57\nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Knox Park 2
-LOCATION:Knox Park 2
+DTSTAMP:20230415T132300Z
+DESCRIPTION:http://maps.google.com/?q=-37.89182780859965\,145.258528153533
+ 92\nWaverley City SC Ladies Firsts vs KCSC Ladies Force at Knox Park 1\n\n
+ Fixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6
+ 23783-26842909&a=SFIX
+LOCATION:Knox Park 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 14 - Berwick United Women
 DTSTART;TZID=Australia/Sydney:20230805T150000
 DTEND;TZID=Australia/Sydney:20230805T170000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
  \nWaverley City SC Ladies Firsts vs Berwick United Women at Milpera Reserv
- e
+ e\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204
+ 159-623783-26842909&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 15 - Maroondah Utd Emeralds
 DTSTART;TZID=Australia/Sydney:20230812T130000
 DTEND;TZID=Australia/Sydney:20230812T150000
-DTSTAMP:20230412T155743Z
+DTSTAMP:20230415T132300Z
 DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287981152392
  6\nWaverley City SC Ladies Firsts vs Maroondah Utd Emeralds at Silcock Res
- erve Pitch 1
+ erve Pitch 1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c
+ =0-8912-204159-623783-26842909&a=SFIX
 LOCATION:Silcock Reserve Pitch 1
 END:VEVENT
 END:VCALENDAR

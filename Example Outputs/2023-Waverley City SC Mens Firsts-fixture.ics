@@ -5,176 +5,198 @@ BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 1 - Berwick MPL1
 DTSTART;TZID=Australia/Sydney:20230415T150000
 DTEND;TZID=Australia/Sydney:20230415T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Berwick MPL1 at Monash University Clayto
- n Campus Pitch 2
+ n Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team_info.c
+ gi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 2 - Maroondah Utd 1sts
-DTSTART;TZID=Australia/Sydney:20230422T170000
-DTEND;TZID=Australia/Sydney:20230422T190000
-DTSTAMP:20230412T155644Z
+DTSTART;TZID=Australia/Sydney:20230422T150000
+DTEND;TZID=Australia/Sydney:20230422T170000
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287895321704
  13\nWaverley City SC Mens Firsts vs Maroondah Utd 1sts at Silcock Reserve 
- Pitch 2
+ Pitch 2\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-89
+ 12-204159-622709-26942525&a=SFIX
 LOCATION:Silcock Reserve Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 3 - BNFC MPL1
 DTSTART;TZID=Australia/Sydney:20230429T150000
 DTEND;TZID=Australia/Sydney:20230429T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs BNFC MPL1 at Monash University Clayton C
- ampus Pitch 2
+ ampus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?
+ c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 4 - Eastern Utd First XI
 DTSTART;TZID=Australia/Sydney:20230506T150000
 DTEND;TZID=Australia/Sydney:20230506T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.8155516\,145.28308059999995\nWav
- erley City SC Mens Firsts vs Eastern Utd First XI at Belmont Park
+ erley City SC Mens Firsts vs Eastern Utd First XI at Belmont Park\n\nFixtu
+ re URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622709
+ -26942525&a=SFIX
 LOCATION:Belmont Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 5 - Lilydale Eagles 1sts
 DTSTART;TZID=Australia/Sydney:20230513T150000
 DTEND;TZID=Australia/Sydney:20230513T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Lilydale Eagles 1sts at Monash Universit
- y Clayton Campus Pitch 2
+ y Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/tea
+ m_info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 6 - Doncaster Rovers Firsts
 DTSTART;TZID=Australia/Sydney:20230520T150000
 DTEND;TZID=Australia/Sydney:20230520T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.7653072\,145.16986369999995\nWav
- erley City SC Mens Firsts vs Doncaster Rovers Firsts at Anderson Park
+ erley City SC Mens Firsts vs Doncaster Rovers Firsts at Anderson Park\n\nF
+ ixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-62
+ 2709-26942525&a=SFIX
 LOCATION:Anderson Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 7 - Yarra Valley Firsts
 DTSTART;TZID=Australia/Sydney:20230527T150000
 DTEND;TZID=Australia/Sydney:20230527T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Yarra Valley Firsts at Monash University
-  Clayton Campus Pitch 2
+  Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team
+ _info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 8 - KCSC Force
 DTSTART;TZID=Australia/Sydney:20230617T150000
 DTEND;TZID=Australia/Sydney:20230617T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.89182780859965\,145.258528153533
- 92\nWaverley City SC Mens Firsts vs KCSC Force at Knox Park 1
+ 92\nWaverley City SC Mens Firsts vs KCSC Force at Knox Park 1\n\nFixture U
+ RL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622709-269
+ 42525&a=SFIX
 LOCATION:Knox Park 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 9 - Mooroolbark Knights
 DTSTART;TZID=Australia/Sydney:20230624T150000
 DTEND;TZID=Australia/Sydney:20230624T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Mooroolbark Knights at Monash University
-  Clayton Campus Pitch 2
+  Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team
+ _info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 10 - Berwick MPL1
 DTSTART;TZID=Australia/Sydney:20230708T150000
 DTEND;TZID=Australia/Sydney:20230708T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-38.074251478466806\,145.33701423519
- 597\nWaverley City SC Mens Firsts vs Berwick MPL1 at Grices Road Reserve
+ 597\nWaverley City SC Mens Firsts vs Berwick MPL1 at Grices Road Reserve\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159
+ -622709-26942525&a=SFIX
 LOCATION:Grices Road Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 11 - Maroondah Utd 1sts
 DTSTART;TZID=Australia/Sydney:20230715T150000
 DTEND;TZID=Australia/Sydney:20230715T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Maroondah Utd 1sts at Monash University 
- Clayton Campus Pitch 2
+ Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team_
+ info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 12 - BNFC MPL1
 DTSTART;TZID=Australia/Sydney:20230722T150000
 DTEND;TZID=Australia/Sydney:20230722T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
  062\nWaverley City SC Mens Firsts vs BNFC MPL1 at Mirrabooka Reserve Pitch
-   1
+   1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-2
+ 04159-622709-26942525&a=SFIX
 LOCATION:Mirrabooka Reserve Pitch  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 13 - Eastern Utd First XI
 DTSTART;TZID=Australia/Sydney:20230729T150000
 DTEND;TZID=Australia/Sydney:20230729T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Eastern Utd First XI at Monash Universit
- y Clayton Campus Pitch 2
+ y Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/tea
+ m_info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 14 - Lilydale Eagles 1sts
 DTSTART;TZID=Australia/Sydney:20230805T150000
 DTEND;TZID=Australia/Sydney:20230805T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.77366275062719\,145.386436303735
  3\nWaverley City SC Mens Firsts vs Lilydale Eagles 1sts at Morrison Reserv
- e Athletics Ground
+ e Athletics Ground\n\nFixture URL:https://websites.mygameday.app/team_info
+ .cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Morrison Reserve Athletics Ground
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 15 - Doncaster Rovers Firsts
 DTSTART;TZID=Australia/Sydney:20230812T150000
 DTEND;TZID=Australia/Sydney:20230812T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs Doncaster Rovers Firsts at Monash Univer
- sity Clayton Campus Pitch 2
+ sity Clayton Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/
+ team_info.cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 16 - Yarra Valley Firsts
 DTSTART;TZID=Australia/Sydney:20230819T150000
 DTEND;TZID=Australia/Sydney:20230819T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.75337058678158\,145.650150515869
  2\nWaverley City SC Mens Firsts vs Yarra Valley Firsts at Millgrove Rec Re
- serve 1
+ serve 1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-89
+ 12-204159-622709-26942525&a=SFIX
 LOCATION:Millgrove Rec Reserve 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 17 - KCSC Force
 DTSTART;TZID=Australia/Sydney:20230826T150000
 DTEND;TZID=Australia/Sydney:20230826T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.911436922273\,145.13792697752376
  \nWaverley City SC Mens Firsts vs KCSC Force at Monash University Clayton 
- Campus Pitch 2
+ Campus Pitch 2\n\nFixture URL:https://websites.mygameday.app/team_info.cgi
+ ?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Monash University Clayton Campus Pitch 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 18 - Mooroolbark Knights
 DTSTART;TZID=Australia/Sydney:20230902T150000
 DTEND;TZID=Australia/Sydney:20230902T170000
-DTSTAMP:20230412T155644Z
+DTSTAMP:20230415T132251Z
 DESCRIPTION:http://maps.google.com/?q=-37.77366275062719\,145.386436303735
  3\nWaverley City SC Mens Firsts vs Mooroolbark Knights at Morrison Reserve
-  Athletics Ground
+  Athletics Ground\n\nFixture URL:https://websites.mygameday.app/team_info.
+ cgi?c=0-8912-204159-622709-26942525&a=SFIX
 LOCATION:Morrison Reserve Athletics Ground
 END:VEVENT
 END:VCALENDAR

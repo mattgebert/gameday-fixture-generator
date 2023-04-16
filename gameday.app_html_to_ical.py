@@ -12,7 +12,7 @@ import datetime, pytz
 ##############################################################
 
 # Waverley City FC Mens 5ths
-url =   r"https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-26842503&a=SFIX"
+# url =   r"https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-26842503&a=SFIX"
 
 # Waverley City FC Mens 4ths
 # url = r"https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622720-26842517&a=SFIX"
@@ -179,7 +179,7 @@ for i in range(pd_records.shape[0]):
     e.add("dtstamp", datetime.datetime.now(tz=tz))
     # Location & Maps URL
     e.add('location', vText(loc), {"ALTREP": vText(loc_url)})
-    e.add('description', vText(loc_url + "\n" + teamname + " vs " + opposition + " at " + loc))
+    e.add('description', vText(loc_url + "\n" + teamname + " vs " + opposition + " at " + loc + "\n\nFixture URL:" + url))
     
     #Add event to calendar
     fcal.add_component(e)
@@ -192,7 +192,7 @@ cwd = os.getcwd()
 write_loc = cwd #unless specified
 print(write_loc)
 
-filename = str(datetime.datetime.now().year) + "-" + teamname + "-fixture.ical"
+filename = str(datetime.datetime.now().year) + "-" + teamname + "-fixture.ics"
 f = open(os.path.join(write_loc, filename), 'wb')
 f.write(fcal.to_ical())
 f.close()

@@ -5,165 +5,198 @@ BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 1 - KCSC Courage
 DTSTART;TZID=Australia/Sydney:20230415T130000
 DTEND;TZID=Australia/Sydney:20230415T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs KCSC Courage at Milpera Reserve
+ \nWaverley City SC Men 5s vs KCSC Courage at Milpera Reserve\n\nFixture UR
+ L:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-2684
+ 2503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 2 - Maroondah Utd 5ths
 DTSTART;TZID=Australia/Sydney:20230422T130000
 DTEND;TZID=Australia/Sydney:20230422T150000
-DTSTAMP:20230412T155418Z
-DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287895321704
- 13\nWaverley City SC Men 5s vs Maroondah Utd 5ths at Silcock Reserve Pitch
-  2
-LOCATION:Silcock Reserve Pitch 2
+DTSTAMP:20230415T132205Z
+DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287981152392
+ 6\nWaverley City SC Men 5s vs Maroondah Utd 5ths at Silcock Reserve Pitch 
+ 1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204
+ 159-622721-26842503&a=SFIX
+LOCATION:Silcock Reserve Pitch 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 3 - BNFC - Melbourne Deaf FC
 DTSTART;TZID=Australia/Sydney:20230429T130000
 DTEND;TZID=Australia/Sydney:20230429T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs BNFC - Melbourne Deaf FC at Milpera Reserve
+ \nWaverley City SC Men 5s vs BNFC - Melbourne Deaf FC at Milpera Reserve\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159
+ -622721-26842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 4 - Yarra Valley Fourths
 DTSTART;TZID=Australia/Sydney:20230506T130000
 DTEND;TZID=Australia/Sydney:20230506T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.75337058678158\,145.650150515869
  2\nWaverley City SC Men 5s vs Yarra Valley Fourths at Millgrove Rec Reserv
- e 1
+ e 1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-2
+ 04159-622721-26842503&a=SFIX
 LOCATION:Millgrove Rec Reserve 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 5 - BNFC Blackburn City
 DTSTART;TZID=Australia/Sydney:20230513T130000
 DTEND;TZID=Australia/Sydney:20230513T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs BNFC Blackburn City at Milpera Reserve
+ \nWaverley City SC Men 5s vs BNFC Blackburn City at Milpera Reserve\n\nFix
+ ture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6227
+ 21-26842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 6 - Donvale Seconds
 DTSTART;TZID=Australia/Sydney:20230520T130000
 DTEND;TZID=Australia/Sydney:20230520T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
- 14\nWaverley City SC Men 5s vs Donvale Seconds at Highfield Park North
+ 14\nWaverley City SC Men 5s vs Donvale Seconds at Highfield Park North\n\n
+ Fixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6
+ 22721-26842503&a=SFIX
 LOCATION:Highfield Park North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 7 - Lion Rock FC
 DTSTART;TZID=Australia/Sydney:20230527T130000
 DTEND;TZID=Australia/Sydney:20230527T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Lion Rock FC at Milpera Reserve
+ \nWaverley City SC Men 5s vs Lion Rock FC at Milpera Reserve\n\nFixture UR
+ L:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-2684
+ 2503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 8 - Berwick D4 Men
 DTSTART;TZID=Australia/Sydney:20230617T130000
 DTEND;TZID=Australia/Sydney:20230617T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-38.07463154167552\,145.338269509014
- 96\nWaverley City SC Men 5s vs Berwick D4 Men at Grices Road Reserve 2
+ 96\nWaverley City SC Men 5s vs Berwick D4 Men at Grices Road Reserve 2\n\n
+ Fixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-6
+ 22721-26842503&a=SFIX
 LOCATION:Grices Road Reserve 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 9 - Mooroolbark Cavaliers
 DTSTART;TZID=Australia/Sydney:20230624T130000
 DTEND;TZID=Australia/Sydney:20230624T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Mooroolbark Cavaliers at Milpera Reserve
+ \nWaverley City SC Men 5s vs Mooroolbark Cavaliers at Milpera Reserve\n\nF
+ ixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-62
+ 2721-26842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 10 - KCSC Courage
 DTSTART;TZID=Australia/Sydney:20230708T130000
 DTEND;TZID=Australia/Sydney:20230708T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.894130767670646\,145.25885001861
- 57\nWaverley City SC Men 5s vs KCSC Courage at Knox Park 2
+ 57\nWaverley City SC Men 5s vs KCSC Courage at Knox Park 2\n\nFixture URL:
+ https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-268425
+ 03&a=SFIX
 LOCATION:Knox Park 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 11 - Maroondah Utd 5ths
 DTSTART;TZID=Australia/Sydney:20230715T130000
 DTEND;TZID=Australia/Sydney:20230715T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Maroondah Utd 5ths at Milpera Reserve
+ \nWaverley City SC Men 5s vs Maroondah Utd 5ths at Milpera Reserve\n\nFixt
+ ure URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-62272
+ 1-26842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 12 - BNFC - Melbourne Deaf FC
 DTSTART;TZID=Australia/Sydney:20230722T130000
 DTEND;TZID=Australia/Sydney:20230722T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.791157543074995\,145.05695788836
- 056\nWaverley City SC Men 5s vs BNFC - Melbourne Deaf FC at Hays Paddock
+ 056\nWaverley City SC Men 5s vs BNFC - Melbourne Deaf FC at Hays Paddock\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159
+ -622721-26842503&a=SFIX
 LOCATION:Hays Paddock
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 13 - Yarra Valley Fourths
 DTSTART;TZID=Australia/Sydney:20230729T130000
 DTEND;TZID=Australia/Sydney:20230729T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Yarra Valley Fourths at Milpera Reserve
+ \nWaverley City SC Men 5s vs Yarra Valley Fourths at Milpera Reserve\n\nFi
+ xture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622
+ 721-26842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 14 - BNFC Blackburn City
 DTSTART;TZID=Australia/Sydney:20230805T130000
 DTEND;TZID=Australia/Sydney:20230805T150000
-DTSTAMP:20230412T155418Z
-DESCRIPTION:http://maps.google.com/?q=-37.8400273\,145.15101140000002\nWav
- erley City SC Men 5s vs BNFC Blackburn City at Mirrabooka Reserve Oval
-LOCATION:Mirrabooka Reserve Oval
+DTSTAMP:20230415T132205Z
+DESCRIPTION:http://maps.google.com/?q=-37.841416833922054\,145.14787857987
+ 062\nWaverley City SC Men 5s vs BNFC Blackburn City at Mirrabooka Reserve 
+ Pitch  1\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8
+ 912-204159-622721-26842503&a=SFIX
+LOCATION:Mirrabooka Reserve Pitch  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 15 - Donvale Seconds
 DTSTART;TZID=Australia/Sydney:20230812T130000
 DTEND;TZID=Australia/Sydney:20230812T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Donvale Seconds at Milpera Reserve
+ \nWaverley City SC Men 5s vs Donvale Seconds at Milpera Reserve\n\nFixture
+  URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-2
+ 6842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 16 - Lion Rock FC
 DTSTART;TZID=Australia/Sydney:20230819T150000
 DTEND;TZID=Australia/Sydney:20230819T170000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
- 5\nWaverley City SC Men 5s vs Lion Rock FC at Eastern Football Precinct
+ 5\nWaverley City SC Men 5s vs Lion Rock FC at Eastern Football Precinct\n\
+ nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-
+ 622721-26842503&a=SFIX
 LOCATION:Eastern Football Precinct
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 17 - Berwick D4 Men
 DTSTART;TZID=Australia/Sydney:20230826T130000
 DTEND;TZID=Australia/Sydney:20230826T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
- \nWaverley City SC Men 5s vs Berwick D4 Men at Milpera Reserve
+ \nWaverley City SC Men 5s vs Berwick D4 Men at Milpera Reserve\n\nFixture 
+ URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-204159-622721-26
+ 842503&a=SFIX
 LOCATION:Milpera Reserve
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VCFA:Rnd 18 - Mooroolbark Cavaliers
 DTSTART;TZID=Australia/Sydney:20230902T130000
 DTEND;TZID=Australia/Sydney:20230902T150000
-DTSTAMP:20230412T155418Z
+DTSTAMP:20230415T132205Z
 DESCRIPTION:http://maps.google.com/?q=-37.77375603568776\,145.386436303735
  3\nWaverley City SC Men 5s vs Mooroolbark Cavaliers at Morrison Reserve Pa
- vilion Ground
+ vilion Ground\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?
+ c=0-8912-204159-622721-26842503&a=SFIX
 LOCATION:Morrison Reserve Pavilion Ground
 END:VEVENT
 END:VCALENDAR
