@@ -16,6 +16,7 @@ You can install using `pip install pandas icalendar` from command prompt.
 ## Running the script:
 ### From the local folder
 Open command prompt in the same folder as the `.py` file, and run the script adding an argument for your team's fixture URL, using quotations such as "https://websites.mygameday.app/team_info.cgi?c=...&a=SFIX".
+
 `python gameday.app_html_to_ical.py "URL"`
 
 ### Modify
