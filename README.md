@@ -11,7 +11,7 @@ A script to scrape mygameday.app for fixture events, then write them into an ica
 ## Dependencies:
 urllib, bs4, pandas, icalendar, datetime, pytz
 
-Only pandas pandas, icalendar are non-standard.
+Only pandas, icalendar are non-standard.
 
 You can install using `pip install pandas icalendar` from command prompt.
 
