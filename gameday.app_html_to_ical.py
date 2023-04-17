@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from icalendar import Calendar, Event, vText
 import datetime, pytz
+import sys
 
 # %%##########################################################
 ########### Choose Website Link for Season Fixture ###########
@@ -34,6 +35,14 @@ import datetime, pytz
 
 # Donvale Seconds
 # url = r"https://websites.mygameday.app/team_info.cgi?c=0-8912-126274-622721-24415662&a=SFIX"
+
+# Lion Rock FC #4
+# url = r"https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27054516&a=SFIX"
+
+if __name__ == "__main__":
+    a = str(sys.argv[1])
+    if a != None:
+        url = a
 
 # %%##########################################################
 ################# Get URL Webpage Text Format ################

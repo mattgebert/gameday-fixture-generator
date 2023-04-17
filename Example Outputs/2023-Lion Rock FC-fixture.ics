@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 1 - Maroondah Utd 5ths
+DTSTART;TZID=Australia/Sydney:20230415T130000
+DTEND;TZID=Australia/Sydney:20230415T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Maroondah Utd 5ths at Eastern Football Precinct\n\nFixt
+ ure URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-62272
+ 1-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 2 - BNFC - Melbourne Deaf FC
+DTSTART;TZID=Australia/Sydney:20230422T130000
+DTEND;TZID=Australia/Sydney:20230422T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.791157543074995\,145.05695788836
+ 056\nLion Rock FC vs BNFC - Melbourne Deaf FC at Hays Paddock\n\nFixture U
+ RL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-270
+ 54516&a=SFIX
+LOCATION:Hays Paddock
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 3 - Yarra Valley Fourths
+DTSTART;TZID=Australia/Sydney:20230429T130000
+DTEND;TZID=Australia/Sydney:20230429T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Yarra Valley Fourths at Eastern Football Precinct\n\nFi
+ xture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622
+ 721-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 4 - BNFC Blackburn City
+DTSTART;TZID=Australia/Sydney:20230506T130000
+DTEND;TZID=Australia/Sydney:20230506T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8400273\,145.15101140000002\nLio
+ n Rock FC vs BNFC Blackburn City at Mirrabooka Reserve Oval\n\nFixture URL
+ :https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27054
+ 516&a=SFIX
+LOCATION:Mirrabooka Reserve Oval
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 5 - Donvale Seconds
+DTSTART;TZID=Australia/Sydney:20230513T150000
+DTEND;TZID=Australia/Sydney:20230513T170000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Donvale Seconds at Eastern Football Precinct\n\nFixture
+  URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-2
+ 7054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 6 - Berwick D4 Men
+DTSTART;TZID=Australia/Sydney:20230520T130000
+DTEND;TZID=Australia/Sydney:20230520T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-38.0744905\,145.33533050000005\nLio
+ n Rock FC vs Berwick D4 Men at Grices Road Reserve 3\n\nFixture URL:https:
+ //websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27054516&a=S
+ FIX
+LOCATION:Grices Road Reserve 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 7 - Waverley City SC Men 5s
+DTSTART;TZID=Australia/Sydney:20230527T130000
+DTEND;TZID=Australia/Sydney:20230527T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.86120290728824\,145.218332494165
+ \nLion Rock FC vs Waverley City SC Men 5s at Milpera Reserve\n\nFixture UR
+ L:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-2705
+ 4516&a=SFIX
+LOCATION:Milpera Reserve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 8 - Mooroolbark Cavaliers
+DTSTART;TZID=Australia/Sydney:20230617T130000
+DTEND;TZID=Australia/Sydney:20230617T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Mooroolbark Cavaliers at Eastern Football Precinct\n\nF
+ ixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-62
+ 2721-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 9 - KCSC Courage
+DTSTART;TZID=Australia/Sydney:20230624T130000
+DTEND;TZID=Australia/Sydney:20230624T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs KCSC Courage at Eastern Football Precinct\n\nFixture UR
+ L:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-2705
+ 4516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 10 - Maroondah Utd 5ths
+DTSTART;TZID=Australia/Sydney:20230708T130000
+DTEND;TZID=Australia/Sydney:20230708T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.78766425888345\,145.287981152392
+ 6\nLion Rock FC vs Maroondah Utd 5ths at Silcock Reserve Pitch 1\n\nFixtur
+ e URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-
+ 27054516&a=SFIX
+LOCATION:Silcock Reserve Pitch 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 11 - BNFC - Melbourne Deaf FC
+DTSTART;TZID=Australia/Sydney:20230715T130000
+DTEND;TZID=Australia/Sydney:20230715T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs BNFC - Melbourne Deaf FC at Eastern Football Precinct\n
+ \nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223
+ -622721-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 12 - Yarra Valley Fourths
+DTSTART;TZID=Australia/Sydney:20230722T130000
+DTEND;TZID=Australia/Sydney:20230722T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.75337058678158\,145.650150515869
+ 2\nLion Rock FC vs Yarra Valley Fourths at Millgrove Rec Reserve 1\n\nFixt
+ ure URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-62272
+ 1-27054516&a=SFIX
+LOCATION:Millgrove Rec Reserve 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 13 - BNFC Blackburn City
+DTSTART;TZID=Australia/Sydney:20230729T130000
+DTEND;TZID=Australia/Sydney:20230729T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs BNFC Blackburn City at Eastern Football Precinct\n\nFix
+ ture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-6227
+ 21-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 14 - Donvale Seconds
+DTSTART;TZID=Australia/Sydney:20230805T130000
+DTEND;TZID=Australia/Sydney:20230805T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.83589307889076\,145.085438638098
+ 14\nLion Rock FC vs Donvale Seconds at Highfield Park North\n\nFixture URL
+ :https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27054
+ 516&a=SFIX
+LOCATION:Highfield Park North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 15 - Berwick D4 Men
+DTSTART;TZID=Australia/Sydney:20230812T130000
+DTEND;TZID=Australia/Sydney:20230812T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Berwick D4 Men at Eastern Football Precinct\n\nFixture 
+ URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27
+ 054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 16 - Waverley City SC Men 5s
+DTSTART;TZID=Australia/Sydney:20230819T150000
+DTEND;TZID=Australia/Sydney:20230819T170000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.8780699696885\,145.2093973116088
+ 5\nLion Rock FC vs Waverley City SC Men 5s at Eastern Football Precinct\n\
+ nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-207223-
+ 622721-27054516&a=SFIX
+LOCATION:Eastern Football Precinct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 17 - Mooroolbark Cavaliers
+DTSTART;TZID=Australia/Sydney:20230826T130000
+DTEND;TZID=Australia/Sydney:20230826T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.77375603568776\,145.386436303735
+ 3\nLion Rock FC vs Mooroolbark Cavaliers at Morrison Reserve Pavilion Grou
+ nd\n\nFixture URL:https://websites.mygameday.app/team_info.cgi?c=0-8912-20
+ 7223-622721-27054516&a=SFIX
+LOCATION:Morrison Reserve Pavilion Ground
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCFA:Rnd 18 - KCSC Courage
+DTSTART;TZID=Australia/Sydney:20230902T130000
+DTEND;TZID=Australia/Sydney:20230902T150000
+DTSTAMP:20230417T035444Z
+DESCRIPTION:http://maps.google.com/?q=-37.89182780859965\,145.258528153533
+ 92\nLion Rock FC vs KCSC Courage at Knox Park 1\n\nFixture URL:https://web
+ sites.mygameday.app/team_info.cgi?c=0-8912-207223-622721-27054516&a=SFIX
+LOCATION:Knox Park 1
+END:VEVENT
+END:VCALENDAR
